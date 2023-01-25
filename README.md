@@ -44,12 +44,16 @@ The following core technologies were used to develop this website:
 ## serve server localhost
 ### installing dependencies
 ```sh
+# setup eviroment variable as development
 cp .env.example .env
+
+# install all dependencies
 yarn install
 ```
 
 ### start server
 ```sh
+# serve application as localhost
  yarn run dev
 ```
-then access to http://localhost:port
+then access to http://localhost:8000
