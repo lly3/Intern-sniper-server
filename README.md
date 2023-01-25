@@ -44,7 +44,7 @@ The following core technologies were used to develop this website:
 ## serve server localhost
 ### installing dependencies
 ```sh
-# setup eviroment variable as development
+# setup environment variable as development
 cp .env.example .env
 
 # install all dependencies
